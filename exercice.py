@@ -6,8 +6,7 @@ def is_even_len(string: str) -> bool:
     if string
 
 def remove_third_char(string: str) -> str:
-    if c = 3
-
+    premiers
     return (string[0:2]-string[4:len(string)])
 
 
