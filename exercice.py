@@ -28,7 +28,7 @@ def get_number_of_char(string: str, char: str) -> int:
 
 def get_number_of_words(sentence: str, word: str) -> int:
     word="doo"
-    if ''
+    
 
 
 def main() -> None:
