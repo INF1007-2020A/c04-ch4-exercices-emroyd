@@ -10,13 +10,13 @@ def remove_third_char(string: str) -> str:
     derniers=string[3:len(string)]
     return (premiers+derniers)
 
-
+#Option 1
 def replace_char(string: str, old_char: str, new_char: str) -> str:
     premiers=string[0:6]
     remplacer='z'
     derniers=string[7:len(string)]
     return(premiers+remplacer+derniers)
-        
+%      
 
 
 def get_number_of_char(string: str, char: str) -> int:
