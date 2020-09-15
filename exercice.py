@@ -7,7 +7,7 @@ def is_even_len(string: str) -> bool:
 
 def remove_third_char(string: str) -> str:
     premiers=string[0:2]
-    derniers=string[4:len(string)]
+    derniers=string[3:len(string)]
     return (premiers+derniers)
 
 
