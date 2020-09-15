@@ -3,7 +3,7 @@
 
 
 def is_even_len(string: str) -> bool:
-    pass
+    if len(string)%
 
 def remove_third_char(string: str) -> str:
     premiers=string[0:2]
