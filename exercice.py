@@ -15,7 +15,7 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
     premiers=string[0:6]
     remplacer='w'
     derniers=string[7:len(string)]
-    return(i)
+    return(premiers+remplacer+derniers)
         
 
 
