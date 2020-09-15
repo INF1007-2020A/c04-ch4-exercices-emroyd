@@ -19,7 +19,7 @@ def replace_char(string: str, old_char: str, new_char: str) -> str:
 
 
 def get_number_of_char(string: str, char: str) -> int:
-    char=1
+    char='1'
     if char in string:
         return(True)
     else:
