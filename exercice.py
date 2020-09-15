@@ -22,6 +22,7 @@ def get_number_of_char(string: str, char: str) -> int:
     char=1
     if char in string
         return(True)
+        
 
 
 def get_number_of_words(sentence: str, word: str) -> int:
