@@ -7,7 +7,7 @@ def is_even_len(string: str) -> bool:
 
 
 def remove_third_char(string: str) -> str:
-    return (string[3:len(string)])
+    return (stringstring[3:len(string)])
 
 
 def replace_char(string: str, old_char: str, new_char: str) -> str:
