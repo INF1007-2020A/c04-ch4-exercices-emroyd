@@ -12,7 +12,7 @@ def remove_third_char(string: str) -> str:
 
 #Option 1
 def replace_char(string: str, old_char: str, new_char: str) -> str:
-  
+  for i in range(len(string))
   
   
    premiers=string[0:6]
