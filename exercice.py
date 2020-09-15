@@ -3,7 +3,7 @@
 
 
 def is_even_len(string: str) -> bool:
-    pass
+    return ()
 
 
 def remove_third_char(string: str) -> str:
