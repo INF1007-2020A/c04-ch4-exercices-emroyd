@@ -6,6 +6,8 @@ def is_even_len(string: str) -> bool:
     nbr=len(string)
     if nbr = int(nbr/2)
     print('Le nombre de lettre est pair')
+    else:
+        
 
 def remove_third_char(string: str) -> str:
     premiers=string[0:2]
