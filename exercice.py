@@ -9,7 +9,6 @@ def is_even_len(string: str) -> bool:
     else:
         print('Le nombre de lettre est impair')
 
-
 def remove_third_char(string: str) -> str:
     premiers=string[0:2]
     derniers=string[3:len(string)]
