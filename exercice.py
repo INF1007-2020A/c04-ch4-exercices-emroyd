@@ -4,7 +4,7 @@
 
 def is_even_len(string: str) -> bool:
     nbr=len(string)
-    nbr=/
+    nbr=*2
     if nbr = int(nbr/2):
     print('Le nombre de lettre est pair')
     else:
