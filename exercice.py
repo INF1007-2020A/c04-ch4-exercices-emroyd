@@ -7,7 +7,7 @@ def is_even_len(string: str) -> bool:
     if nbr = int(nbr/2):
         print('Le nombre de lettre est pair')
     else:
-        print('')
+        print('Le nombre de lettre est impair')
 
 
 def remove_third_char(string: str) -> str:
