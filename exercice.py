@@ -3,7 +3,8 @@
 
 
 def is_even_len(string: str) -> bool:
-    mot=len(string)
+    nbr=len(string)
+    if 
 
 def remove_third_char(string: str) -> str:
     premiers=string[0:2]
